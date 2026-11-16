@@ -4,6 +4,7 @@ version = "1.0.1"
 edition = "2021"
 rust-version = "1.75"
 description = "Rust client for the Transmitly email API"
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
 license = "MIT"
 repository = "https://github.com/Transmitly-io/sdk-rust"
 homepage = "https://transmitly.io/docs/sdks"
